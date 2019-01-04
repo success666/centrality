@@ -1,0 +1,43 @@
+.editArticle{
+    .title{
+        width: 70%;
+    }
+    .width{
+        width: 200px;
+    }
+    .range{
+        width: 800px;
+        .rangeSpan{
+            padding-top:8px;
+        }
+    }
+    .age{
+        width:600px;
+    }
+    .sex{
+        margin-left:30px;
+    }
+    .grade{
+        display:inline-block;width:600px;
+    }
+    .schoolType{
+        width:260px;margin-top:20px;
+    }
+    .el-checkbox-group{
+        padding-top: 10px;
+        width: 80px;
+        height: 100px;
+        .el-checkbox{
+            float: left;
+            margin-left:0px;
+            
+        }
+    }
+    .personage{
+        margin-bottom:100px;
+    }
+    .schools{
+        margin-bottom:30px;
+    }
+}
+

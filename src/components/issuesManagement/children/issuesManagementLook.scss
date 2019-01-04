@@ -1,0 +1,25 @@
+.issuesManagementLook{
+    background: #fff;
+    margin-bottom: 20px;
+    div.clearfix{
+        background: #F0F0F0;
+        .header{
+            height: 60px;
+            line-height: 60px;
+            padding-right: 30px;
+            
+        }
+    }
+    .el-dialog{
+        background:#000!important;
+    }
+    .el-dialog__title{
+        color:#fff!important;
+    }
+    .content{
+        padding-left: 20px;
+        .lh40{
+            line-height: 40px;
+        }
+    }
+}

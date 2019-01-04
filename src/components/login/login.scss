@@ -1,0 +1,40 @@
+.login{
+    background:rgba(213, 225, 250, 0.8);
+    height: 100%;
+    .center{
+        background: #fff;
+        border:1px solid #ccc;
+        box-shadow: 10px 10px 5px #888888;
+        width: 500px;
+        padding: 40px;
+        div h1{
+            height: 60px;
+            line-height: 60px;
+            font-size: 24px;
+        }
+        div.ac{
+            font-size:14px;
+        }
+        div.pb{
+            padding-bottom: 22px;
+            overflow: hidden;
+            .code{
+                width:230px;
+                float: left;
+            }
+            .yzmbutton{
+                position: relative;
+                float: right;   
+                width:126px;
+                height:40px;
+                font-size: 20px;
+                .yzm{
+                    height: 14px;
+                    width: 84px;
+                    position: relative;
+                    
+                }
+            }
+        }
+    }
+}

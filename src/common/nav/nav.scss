@@ -1,0 +1,16 @@
+.el-tree-node__content{
+    height: 38px!important;
+    border-top-left-radius:16px;
+    border-bottom-left-radius:16px;
+
+}
+.el-tree-node__label{
+    font-size: 18px!important;
+}
+
+.el-tree-node__content:hover{
+    color:#2E89E6;
+    background: #EFEFEF;
+    border-top-left-radius:16px;
+    border-bottom-left-radius:16px;
+}

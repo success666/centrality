@@ -1,0 +1,21 @@
+.problemBaseLook{
+    div.clearfix{
+        background: #F0F0F0;
+        .header{
+            height: 60px;
+            line-height: 60px;
+            padding-right: 30px;
+            
+        }
+        
+    }
+    .content{
+        margin-bottom:20px;
+        border-radius: 18px;
+        padding:0px 20px 0px 20px;
+        background:#fff;
+        .lh40{
+            line-height: 40px;
+        }
+    }
+}

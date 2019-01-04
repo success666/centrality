@@ -1,0 +1,17 @@
+.view{
+    .articlereview{
+        line-height: 60px;
+        p{
+            float: right;
+            padding-right: 30px;
+        }
+        
+    }
+    .el-table--enable-row-transition .el-table__body td{
+        text-align: center;
+    }
+    .el-table th.is-leaf {
+        text-align: center;
+    }
+}
+

@@ -1,0 +1,28 @@
+.diseaseSchemeLook{
+    div.clearfix{
+        background: #F0F0F0;
+        .header{
+            height: 60px;
+            line-height: 60px;
+            padding-right: 30px;
+            
+        }
+        
+    }
+
+    .content{
+        border-radius:18px;
+        padding:0px 20px 0px 20px;
+        margin-bottom: 20px;
+        background: #fff;
+        .lh40{
+            line-height: 40px;
+        }
+        .el-dialog{
+            background:#000!important;
+        }
+        .el-dialog__title{
+            color:#fff!important;
+        }
+    }
+}
